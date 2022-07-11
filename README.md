@@ -1,5 +1,7 @@
 ## laravel cdn solve math exercises
-##### CDN - Resize Image
+```bash
+Resize Image :>
+```
 
 ### Install: (Run in Terminal)
 ```bash
